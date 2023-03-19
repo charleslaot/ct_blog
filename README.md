@@ -1,1 +1,1 @@
-# Carlos Trujillo Personal Portfolio and Blog 
+# Carlos Trujillo Personal Portfolio and Blog
