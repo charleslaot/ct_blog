@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-personal-website-starter",
+  "name": "carlos-trujillo-personal-website",
   "private": true,
-  "description": "Gatsby Markdown Personal Website Starter, using Typescript, Styled Components, Tailwindcss and Framer Motion.",
+  "description": "Carlos Trujillo's personal website",
   "version": "0.1.0",
   "author": "Saimir Kapaj",
   "dependencies": {
@@ -62,11 +62,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SaimirKapaj/gatsby-markdown-typescript-personal-website"
-  },
+  },  
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   }

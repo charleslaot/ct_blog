@@ -9,16 +9,12 @@ interface MainNavItem {
 
 const mainNavItems: MainNavItem[] = [
   {
-    title: 'About Me',
-    slug: '/'
-  },
-  {
-    title: 'Resume',
-    slug: '/resume/'
-  },
-  {
     title: 'Blog',
-    slug: '/blog/'
+    slug: '/'
+  },  
+  {
+    title: 'About Me',
+    slug: '/about/'
   },
   {
     title: 'Contact Me',

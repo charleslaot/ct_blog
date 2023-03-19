@@ -1,5 +1,5 @@
 ---
 category: 'blog section'
 title: 'Blog'
-subtitle: 'All my posts'
+subtitle: 'Code Corner: A Collection of Programming Posts'
 ---
