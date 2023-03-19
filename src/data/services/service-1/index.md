@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Web Design'
+title: 'Frontend Development'
 icon: 'laptop-code'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Using HTML5, CSS3, and JavaScript, along with frameworks like React and Angular, I create visually appealing and responsive user interfaces.'
 ---

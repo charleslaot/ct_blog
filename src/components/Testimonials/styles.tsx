@@ -20,3 +20,7 @@ export const Image = styled.figure`
 export const Title = styled.h3`
   ${tw`font-semibold my-4`};
 `;
+
+export const Link = styled.a`
+  ${tw`text-indigo-900 hover:text-indigo-600 px-2 text-sm`};
+`;

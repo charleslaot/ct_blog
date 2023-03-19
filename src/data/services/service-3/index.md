@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Copywrite'
-icon: 'edit'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+title: 'Database Management'
+icon: 'database'
+description: 'Proficient in both relational and non-relational databases, I optimize data storage and querying strategies for quick information access.'
 ---

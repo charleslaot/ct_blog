@@ -10,6 +10,10 @@ import FormatHtml from 'components/utils/FormatHtml';
 import { SectionTitle, ImageSharpFluid } from 'helpers/definitions';
 
 import * as Styled from './styles';
+// import { url } from 'inspector';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowUpRightFromSquare } from '@fortawesome/free-solid-svg-icons';
 
 const Carousel = Loadable(() => import('components/ui/Carousel'));
 
@@ -24,6 +28,7 @@ interface Testimonial {
           fluid: ImageSharpFluid;
         };
       };
+      url: string;
     };
   };
 }
@@ -51,6 +56,7 @@ const Testimonials: React.FC = () => {
                   }
                 }
               }
+              url
             }
           }
         }
@@ -70,7 +76,7 @@ const Testimonials: React.FC = () => {
             const {
               id,
               html,
-              frontmatter: { cover, title }
+              frontmatter: { cover, title, url }
             } = item.node;
 
             return (
@@ -78,7 +84,12 @@ const Testimonials: React.FC = () => {
                 <Styled.Image>
                   <Img fluid={cover.childImageSharp.fluid} alt={title} />
                 </Styled.Image>
-                <Styled.Title>{title}</Styled.Title>
+                <Styled.Title>
+                  {title}
+                  <Styled.Link href={url} rel="noreferrer noopener" target="_blank">
+                    <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
+                </Styled.Link>
+                </Styled.Title>
                 <FormatHtml content={html} />
               </Styled.Testimonial>
             );
