@@ -1,1 +1,1 @@
-# Minority Coding Blog
+# Carlos Trujillo Personal Portfolio and Blog 
