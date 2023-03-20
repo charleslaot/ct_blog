@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'Facebook'
-position: 'Frontend Developer'
-startDate: 'May 2013'
-endDate: 'Jun 2015'
+company: 'Wink News'
+position: 'Fullstack Engineer'
+startDate: 'Feb 2021'
+endDate: 'Present'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.

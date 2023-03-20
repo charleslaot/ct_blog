@@ -1,9 +1,9 @@
 ---
 category: 'education'
-university: 'Columbia University'
-degree: 'Bachelor'
-startDate: 'Oct 2005'
-endDate: 'Jul 2008'
+university: 'UCLV Marta Abreu'
+degree: 'Bachelor of Science in Automation Engineering'
+startDate: 'Sep 2009'
+endDate: 'Jul 2014'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+In 2014, I earned my Bachelor of Science in Automation Engineering from the UCLV. My undergraduate thesis focused on the development and implementation of a digital signal filter in C for an Autonomous Underwater Vehicle (AUV).
