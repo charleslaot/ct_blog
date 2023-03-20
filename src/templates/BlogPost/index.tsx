@@ -1,12 +1,13 @@
 import React from 'react';
-import { graphql } from 'gatsby';
 import Link from 'gatsby-link';
-
-import Layout from 'components/Layout';
+import Img from 'gatsby-image';
+import { graphql } from 'gatsby';
 import SEO from 'components/SEO';
+import Layout from 'components/Layout';
 import Container from 'components/ui/Container';
-import TitleSection from 'components/ui/TitleSection';
 import FormatHtml from 'components/utils/FormatHtml';
+import TitleSection from 'components/ui/TitleSection';
+import { ImageSharpFluid } from 'helpers/definitions';
 
 import * as Styled from './styles';
 
@@ -18,6 +19,11 @@ interface Post {
   frontmatter: {
     title: string;
     date: string;
+    cover: {
+      childImageSharp: {
+        fluid: ImageSharpFluid;
+      };
+    };
   };
 }
 
@@ -40,6 +46,9 @@ const BlogPost: React.FC<Props> = ({ data, pageContext }) => {
     <Layout>
       <SEO title={post.frontmatter.title} />
       <Container section>
+        <Styled.Image>
+          <Img fluid={post.frontmatter.cover?.childImageSharp?.fluid} alt={post.frontmatter.title} />
+        </Styled.Image>
         <TitleSection title={post.frontmatter.date} subtitle={post.frontmatter.title} />
         <FormatHtml content={post.html} />
         <Styled.Links>
@@ -72,6 +81,13 @@ export const query = graphql`
       frontmatter {
         title
         date(formatString: "MMM DD, YYYY")
+        cover {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
