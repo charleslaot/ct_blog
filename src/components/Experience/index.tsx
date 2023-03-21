@@ -5,8 +5,11 @@ import Timeline from 'components/ui/Timeline';
 import Container from 'components/ui/Container';
 import TitleSection from 'components/ui/TitleSection';
 import FormatHtml from 'components/utils/FormatHtml';
+import { Button } from 'components/ui/Button/styles';
 
 import { SectionTitle } from 'helpers/definitions';
+
+import * as Styled from './styles';
 
 interface Experience {
   node: {
@@ -55,7 +58,14 @@ const Experience: React.FC = () => {
 
   return (
     <Container section>
-      <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} />
+      <Styled.Container>
+        <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} />
+        <div>
+          <a href="https://github.com/realcarlostrujillo/realcarlostrujillo/raw/main/assets/resume.pdf" download="Carlos_Fullstack.pdf">
+            <Button primary whileHover={{ scale: 1.05 }}>Download</Button>
+          </a>
+        </div>
+      </Styled.Container>
 
       {experiences.map((item) => {
         const {
