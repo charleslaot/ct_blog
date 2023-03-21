@@ -6,4 +6,4 @@ startDate: 'Jun 2018'
 endDate: 'Jul 2019'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ttempor incididunt ut labore et dolore magna aliqua.
+Assisted the development team in building and maintaining websites and web applications. Collaborated with senior developers, designers, and project managers to understand project requirements, and implemented features based on those specifications.

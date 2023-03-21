@@ -19,7 +19,7 @@ export const Bar = styled.div<StyledProps>`
 `;
 
 export const Content = styled.div`
-  ${tw`w-full flex justify-between`};
+  ${tw`w-full flex justify-center`};
 `;
 
 export const Title = styled.h3`

@@ -6,4 +6,4 @@ startDate: 'Jul 2019'
 endDate: 'Feb 2021'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ssed do eiusmod tempor incididunt ut labore et dolore.
+Worked closely with designers transforming visual concepts into dynamic and responsive web pages. Implemented features with HTML, CSS and Javascript. Improved site performance, and guaranteed accessibility and cross browser support. 

@@ -6,4 +6,4 @@ startDate: 'Feb 2021'
 endDate: 'Present'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+Contributed to frontend and backend development of web applications. Collaborated with team members to ensured security, scalability, and performance of web infrastructure. Mentored junior developers and participated in code reviews and testing.
