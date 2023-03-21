@@ -6,4 +6,4 @@ startDate: 'Jul 2017'
 endDate: 'Apr 2018'
 ---
 
-I completed the MERN certification program at Thinkful. This intensive course provided me with hands on experience in developing fullstack applications using the MERN stack, which includes MongoDB, Express, React, and Node.js.
+I completed the Fullstack Engineering Program at Thinkful. This intensive course provided me with hands on experience in developing fullstack applications using the MERN stack, which includes MongoDB, Express, React, and Node.js.
