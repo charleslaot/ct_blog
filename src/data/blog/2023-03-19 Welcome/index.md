@@ -14,7 +14,7 @@ Hey there, fellow tech enthusiasts! I'm Carlos and this is my little corner of t
 
 **Expect the unexpected! 😎🎉**
 
-Here, we'll explore the latest trends, tips, and tricks in the Javascript programming language (and maybe even some ancient ones like Assembly, for those feeling nostalgic). We'll also dive into web development topics, covering frameworks like React.js and much more. Not to mention all the cool gadgets and tech news that we just can't get enough of!
+Here, we'll explore the latest trends, tips, and tricks in the Javascript programming language (and maybe even some ancient ones like Assembly, for those feeling nostalgic). We'll also dive into web development topics, covering frameworks like React and much more. Not to mention all the cool gadgets and tech news that we just can't get enough of!
 
 **A bit about me 🤓**
 
