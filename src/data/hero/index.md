@@ -2,7 +2,7 @@
 category: 'hero section'
 title: 'Fullstack Developer'
 subtitle: 'Hi 👋 Im Carlos'
-content: 'Welcome to my Blog! 🧔‍♂️💻. Im a fullstack engineer by day, keyboard ninja by night, and meme connoisseur in my spare time. This blog combines my enthusiasm for code, nerd humor, and DIY projects that never get done. Fiddling with cutting-edge tech 🚀, mastering the ancient art of debugging 🐞, and searching for the perfect coffee recipe ☕ are some of the recurrent topics here. Join me as we explore this digital playground together, one byte at a time!'
+content: 'Fullstack engineer with a passion for building robust and user friendly web applications. Proficient in front end technologies such as React and Redux, as well as back end frameworks such as Express. Adept at using databases such as PostgreSQL and MongoDB to manage and store data. Experienced in developing APIs and integrating third party services such as Stripe and Twilio. Strong collaboration and interpersonal skills, with a commitment to delivering high quality work that meets project requirements.'
 linkTo: '/resume/'
 linkText: 'View Resume'
 ---

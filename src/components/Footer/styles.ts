@@ -14,5 +14,9 @@ export const Links = styled.div`
 `;
 
 export const Link = styled.a`
-  ${tw`text-indigo-900 hover:text-indigo-600 px-2 text-2xl`};
+  ${tw`text-indigo-900 hover:text-indigo-600 px-1 text-2xl`};
+`;
+
+export const Copy = styled.p`
+  ${tw`flex items-center justify-center w-full text-sm mt-6`};
 `;

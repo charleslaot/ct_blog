@@ -9,7 +9,7 @@ import Testimonials from 'components/Testimonials';
 const AboutMe: React.FC = () => {
   return (
     <Layout>
-      <SEO title="About Me" />
+      <SEO title="Home" />
       <HeroBanner />
       <Services />
       <hr />

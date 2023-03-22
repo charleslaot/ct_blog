@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `CarlosTrujilloJS`,
+    title: `Carlos Trujillo`,
     description: `Personal website of Carlos Trujillo, a fullstack engineer based in Florida.`,
     author: `Carlos Trujillo`
   },

@@ -8,13 +8,13 @@ interface MainNavItem {
 }
 
 const mainNavItems: MainNavItem[] = [
-  {
-    title: 'Blog',
-    slug: '/'
-  },  
+  // {
+  //   title: 'Blog',
+  //   slug: '/'
+  // },  
   {
     title: 'About Me',
-    slug: '/about/'
+    slug: '/'
   },
   {
     title: 'Contact Me',
