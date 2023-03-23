@@ -29,7 +29,7 @@ const Footer: React.FC = () => (
         <Styled.Link href="https://dev.to/realcarlostrujillo" rel="noreferrer noopener" target="_blank">
           <FontAwesomeIcon icon={faDev} />
         </Styled.Link>
-        <Styled.Link href="https://realcarlostrujillo.hashnode.dev/" rel="noreferrer noopener" target="_blank">
+        <Styled.Link href="https://carlostrujillojs.com" rel="noreferrer noopener" target="_blank">
           <FontAwesomeIcon icon={faHashnode} />
         </Styled.Link>
         <Styled.Link href="/pp" rel="noreferrer noopener">
