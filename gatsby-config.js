@@ -52,7 +52,7 @@ module.exports = {
         background_color: `#81e6d9`,
         theme_color: `#81e6d9`,
         display: `minimal-ui`,
-        icon: `src/assets/images/ct-icon.png`
+        icon: `src/assets/images/ct-icon-square.jpg`
       }
     },
     `gatsby-plugin-offline`,
