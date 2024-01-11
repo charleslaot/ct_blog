@@ -10,7 +10,7 @@ published: true
 
 **Welcome to My Tech-tacular Blog! 👋💻🌐**
 
-Hey there, fellow tech enthusiasts! I'm Carlos and this is my little corner of the internet, where I get to geek out about all things **programming**, **web development**, and **tech**. If you're into that too, you've come to the right place!  
+Hey there, fellow tech enthusiasts! I'm Charles and this is my little corner of the internet, where I get to geek out about all things **programming**, **web development**, and **tech**. If you're into that too, you've come to the right place!  
 
 **Expect the unexpected! 😎🎉**
 
