@@ -61,7 +61,7 @@ const Experience: React.FC = () => {
       <Styled.Container>
         <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} />
         <div>
-          <a href="/src/assets/resume.pdf" download="Charles_Resume.pdf">
+          <a href="https://raw.githubusercontent.com/charleslaot/ct_blog/master/src/assets/resume.pdf" download="Charles_Resume.pdf">
             <Button primary whileHover={{ scale: 1.05 }}>Download</Button>
           </a>
         </div>
