@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Carlos Trujillo`,
-    description: `Personal website of Carlos Trujillo, a fullstack engineer based in Florida.`,
-    author: `Carlos Trujillo`
+    title: `Charles La O`,
+    description: `Personal website of Charles La O, a fullstack engineer based in Florida.`,
+    author: `Charles La O`
   },
   plugins: [
     `gatsby-plugin-typescript`,
@@ -46,7 +46,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Carlos Trujillo Personal Website`,
+        name: `Charles La O Personal Website`,
         short_name: `CT Blog`,
         start_url: `/`,
         background_color: `#81e6d9`,

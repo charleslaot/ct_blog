@@ -1,9 +1,9 @@
 {
   "name": "carlos-trujillo-personal-website",
   "private": true,
-  "description": "Carlos Trujillo's personal website",
+  "description": "Charles La O's personal website",
   "version": "0.1.0",
-  "author": "Carlos Trujillo",
+  "author": "Charles La O",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/free-brands-svg-icons": "^6.3.0",
