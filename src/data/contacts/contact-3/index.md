@@ -2,5 +2,5 @@
 category: 'contact'
 title: 'Email'
 icon: 'paper-plane'
-content: 'krloslao90@gmail.com'
+content: 'charleslaot76@gmail.com'
 ---
