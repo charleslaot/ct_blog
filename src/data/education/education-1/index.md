@@ -1,6 +1,6 @@
 ---
 category: 'education'
-university: 'UCLV Marta Abreu'
+university: 'Marta Abreu Central University'
 degree: 'Bachelor of Science in Automation Engineering'
 startDate: 'Sep 2009'
 endDate: 'Jul 2014'
