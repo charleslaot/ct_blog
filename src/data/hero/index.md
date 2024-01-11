@@ -2,7 +2,10 @@
 category: 'hero section'
 title: 'Fullstack Developer'
 subtitle: 'Hi 👋 Im Charles'
-content: 'Fullstack engineer with a passion for building robust and user friendly web applications. Proficient in front end technologies such as React and Redux, as well as back end frameworks such as Express. Adept at using databases such as PostgreSQL and MongoDB to manage and store data. Experienced in developing APIs and integrating third party services such as Stripe and Twilio. Strong collaboration and interpersonal skills, with a commitment to delivering high quality work that meets project requirements.'
+content: 'Fullstack engineer with expertise in frontend (Javascript, React, Redux) and backend (Node.js, Express, PHP)
+technologies. Skilled in PostgreSQL, MongoDB, API development, and integrating services like Stripe and Twilio.
+Proficient in DevOps with Docker, Kubernetes, and AWS for efficient deployment and scaling. Strong in collaboration,
+committed to delivering high-quality, user-friendly web applications.'
 linkTo: '/resume/'
 linkText: 'View Resume'
 ---
