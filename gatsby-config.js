@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Charles La O`,
-    description: `Personal website of Charles La O, a fullstack engineer based in Florida.`,
+    description: `Personal website of Charles La O, a fullstack engineer.`,
     author: `Charles La O`
   },
   plugins: [
